@@ -4,7 +4,7 @@
     "password": "Welcome123!",
     "database": "indice_dev",
     "host": "127.0.0.1",
-    "port": "5435",
+    "port": "5432",
     "dialect": "postgres"
   },
   "test": {
